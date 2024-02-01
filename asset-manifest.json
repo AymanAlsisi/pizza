@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/pizza/static/css/main.0a8a55f2.css",
+    "main.js": "/pizza/static/js/main.0b16b6a6.js",
+    "static/media/spicy_pizza.png": "/pizza/static/media/spicy_pizza.6a2723de10213b403418.png",
+    "static/media/mexican_pizza.png": "/pizza/static/media/mexican_pizza.7c1fb73880f283326ae5.png",
+    "static/media/Hero.png": "/pizza/static/media/Hero.fbc683eb663a097d510d.png",
+    "static/media/pizza_banner.png": "/pizza/static/media/pizza_banner.c28af6774c8842bdb842.png",
+    "static/media/meat_pizza.jpg": "/pizza/static/media/meat_pizza.292df5962a634520a12d.jpg",
+    "static/media/veggie_pizza.jpg": "/pizza/static/media/veggie_pizza.6531b0e1dc9e48f05b49.jpg",
+    "static/media/pesto_pizza.jpg": "/pizza/static/media/pesto_pizza.9f2b14085892d0e184d8.jpg",
+    "static/media/cheese_pizza.jpg": "/pizza/static/media/cheese_pizza.dbf23d5281f6e98a906c.jpg",
+    "static/media/pepproni_pizza.jpg": "/pizza/static/media/pepproni_pizza.ee362f934f4ec3ea2e01.jpg",
+    "static/media/hawaiian_pizza.jpg": "/pizza/static/media/hawaiian_pizza.1cf75f4186a8f02e22be.jpg",
+    "static/media/mushroom_pizza.jpg": "/pizza/static/media/mushroom_pizza.407c86581902cd840e9b.jpg",
+    "static/media/pickle_pizza.jpg": "/pizza/static/media/pickle_pizza.6d7662802f3bdd282035.jpg",
+    "static/media/buffalo_pizza.jpg": "/pizza/static/media/buffalo_pizza.b7c037ac6d45ea0b9325.jpg",
+    "static/media/pizza_marinara.jpg": "/pizza/static/media/pizza_marinara.15cb7fa4b280956ebbcf.jpg",
+    "static/media/broccoli_pizza.jpg": "/pizza/static/media/broccoli_pizza.ace3d4f92593dac640f3.jpg",
+    "static/media/ricotta_pizza.jpg": "/pizza/static/media/ricotta_pizza.1ec01c1ecabd2dd36469.jpg",
+    "static/media/margherita_pizza.jpg": "/pizza/static/media/margherita_pizza.a0b2b375840ded3f9736.jpg",
+    "static/media/bbq_chicken_pizza.jpg": "/pizza/static/media/bbq_chicken_pizza.984d49774c758c743aa9.jpg",
+    "static/media/truffle_pizza.jpg": "/pizza/static/media/truffle_pizza.cb24b2ba12d30c36d76b.jpg",
+    "static/media/neapolitian_pizza.jpg": "/pizza/static/media/neapolitian_pizza.e2304105997c9706a1a2.jpg",
+    "static/media/olive_pizza.jpg": "/pizza/static/media/olive_pizza.e9d404b642ce89c14fa4.jpg",
+    "static/media/supreme_pizza.jpg": "/pizza/static/media/supreme_pizza.f3f3205c9d3d930b3e03.jpg",
+    "static/media/cart_icon.png": "/pizza/static/media/cart_icon.6d328f4735643ba2c6f1.png",
+    "static/media/menu_icon.png": "/pizza/static/media/menu_icon.0779f27a9d74a50247a0.png",
+    "index.html": "/pizza/index.html",
+    "main.0a8a55f2.css.map": "/pizza/static/css/main.0a8a55f2.css.map",
+    "main.0b16b6a6.js.map": "/pizza/static/js/main.0b16b6a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a8a55f2.css",
+    "static/js/main.0b16b6a6.js"
+  ]
+}
